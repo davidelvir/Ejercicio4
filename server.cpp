@@ -1,7 +1,6 @@
 #include <iostream>
 #include <thread>
 #include <stdio.h>
-//#include <SDKDDKVer.h>
 #include <Windows.h>
 #include <string.h>
 #include <stdlib.h>
